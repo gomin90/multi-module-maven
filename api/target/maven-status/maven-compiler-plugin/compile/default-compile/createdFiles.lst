@@ -1,0 +1,3 @@
+com\beginsecure\APIApplication.class
+com\beginsecure\controller\TestController.class
+com\beginsecure\producer\TestkafkaProducer.class
